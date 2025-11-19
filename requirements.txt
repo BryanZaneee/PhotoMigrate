@@ -1,0 +1,10 @@
+# Python requirements for iCloud Photos Migrator
+
+# GUI framework (built-in with Python on macOS)
+# tkinter - included with Python
+
+# For building Mac .app
+py2app>=0.28
+
+# Optional: For enhanced GUI (uncomment if you want to use customtkinter)
+# customtkinter>=5.0.0
