@@ -67,7 +67,7 @@ Database method chosen for accuracy and reliability across file systems.
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/PhotoMigrate.git
+git clone https://github.com/BryanZaneee/PhotoMigrate.git
 cd PhotoMigrate
 pip3 install -r requirements.txt
 ```
@@ -194,7 +194,7 @@ PhotoMigrate/
 
 ## License
 
-MIT License - see LICENSE file
+[MIT](LICENSE)
 
 ## Troubleshooting
 
@@ -212,7 +212,7 @@ External drive speed is limiting factor. USB 3.0+ recommended.
 
 ## Support
 
-File issues at: https://github.com/yourusername/PhotoMigrate/issues
+File issues at: https://github.com/BryanZaneee/PhotoMigrate/issues
 
 ## Credits
 
