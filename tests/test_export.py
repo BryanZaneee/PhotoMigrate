@@ -19,8 +19,8 @@ def test_apple_timestamp_conversion():
     print("=" * 80)
     print()
 
-    # Test case 1: Known date (Jan 1, 2020 = 599616000 seconds since 2001-01-01)
-    timestamp_2020 = 599616000
+    # Test case 1: Known date (Jan 1, 2020 = 599529600 seconds since 2001-01-01)
+    timestamp_2020 = 599529600
     result = convert_apple_timestamp(timestamp_2020)
     expected = datetime(2020, 1, 1)
 
